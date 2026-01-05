@@ -1,4 +1,6 @@
- <img src="BioGA-X LOGO.png" style="align:center" />
+<p align="center">
+  <img src="BioGA-X LOGO.png" width="80%" />
+</p>
 
 
 ---------------------------------------
